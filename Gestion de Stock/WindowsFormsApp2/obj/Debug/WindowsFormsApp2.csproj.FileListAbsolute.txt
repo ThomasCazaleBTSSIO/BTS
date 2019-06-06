@@ -1,0 +1,124 @@
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\Users\Administrateur\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilisateurs.resources
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Onglet.resources
+C:\Users\Nassim\Desktop\SLAM\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Visiteurs.resources
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilisateurs.resources
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Onglet.resources
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Visiteurs.resources
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+C:\Users\Nassim\Desktop\SLAM\C#\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Gestion de Stock\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+E:\Gestion de Stock\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilisateurs.resources
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Onglet.resources
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Visiteurs.resources
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilisateurs.resources
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Onglet.resources
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Visiteurs.resources
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Users\Administrateur\Desktop\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilisateurs.resources
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Onglet.resources
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Visiteurs.resources
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Users\Administrateur\Desktop\Projet Visual Studio\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Demandes.resources
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Demandes.resources
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Utilisateurs.resources
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Thomas\Desktop\Etude\Gestion de Stock\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
